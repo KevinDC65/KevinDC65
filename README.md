@@ -1,6 +1,6 @@
 # Hola, soy Kevin
 
-Estudiante en ingeniería de Sistemas con interés en construir soluciones robustas, escalables y bien diseñadas. Me enfoco en el aprendizaje continuo, el trabajo en equipo, liderazgo y la colaboración en proyectos de impacto.
+Estudiante en Ingeniería de Sistemas con interés en construir soluciones robustas, escalables y bien diseñadas. Me enfoco en el aprendizaje continuo, el trabajo en equipo, liderazgo y la colaboración en proyectos de impacto.
 
 ---
 
@@ -23,10 +23,8 @@ Estudiante en ingeniería de Sistemas con interés en construir soluciones robus
 ## Estadísticas de GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinDC65&theme=github-dark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDC65&layout=compact&theme=default&hide_border=true)
-
 ---
 
 ## Contacto
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU-USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevin_r1362)
