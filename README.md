@@ -21,10 +21,9 @@ Estudiante en ingeniería de Sistemas con interés en construir soluciones robus
 ---
 
 ## Estadísticas de GitHub
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KevinDC65&theme=github-dark&hide_border=true&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinDC65&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=KevinDC65&theme=default&hide_border=true)
 
 ---
 
